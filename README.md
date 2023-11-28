@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DMatsliyah)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dor-matsliyah-24a3a1140/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dmatsliyah@gmail.com)
+
+### I'm Dor!
+- :man_student: I recently graduated with an M.Sc in Life Sciences from the Weizmann Institute of Science!
+- 🔭 I’m currently working on getting my github pages website up and running.
+- :man_technologist: Soon I'll finish editing and migrating some of my projects to show on [my online portfolio](https://dmatsliyah.github.io)!
 
 <!--
 **DMatsliyah/DMatsliyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
