@@ -5,6 +5,8 @@
 
 ### I'm Dor!
 - :man_student: I recently graduated with an M.Sc in Life Sciences from the Weizmann Institute of Science!
+- :bar_chart: I'm interested in data analysis, and making data driven decisions.
+- :robot: I aim to learn more about AI and machine learning.
 - 🔭 I’m currently working on getting my github pages website up and running.
 - :man_technologist: Soon I'll finish editing and migrating some of my projects to show on [my online portfolio](https://dmatsliyah.github.io)!
 
