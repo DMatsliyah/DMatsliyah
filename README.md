@@ -9,7 +9,7 @@
 - :man_student: I recently graduated with an M.Sc in Life Sciences from the Weizmann Institute of Science!
 - :bar_chart: I'm interested in data analysis, and making data driven decisions.
 - :robot: I aim to learn more about AI and machine learning.
-- 🔭 I’m currently working on data science projects and improving my skills in SQL, Python, and others.
+- 🔭 I’m currently working on completing [py4e](www.py4e.com) course as a refresher and participating in a mentored NLP project on Kaggle!
 - :man_technologist: [my website is up and running!](https://dmatsliyah.github.io)
 
 <!--
