@@ -9,7 +9,6 @@
 - :man_student: I'm a Marine Biotechnology graduate, with an M.Sc in Life Sciences from the Weizmann Institute of Science.
 - 💊 I work as a Regulatory Affairs Associate in the pharma industry.
 - :robot: I'm always interested in learning more, and play around with code every once in a while.
-- 🔭 I’m currently working on completing [py4e](www.py4e.com) course as a refresher.
 - :man_technologist: [my website is up and running!](https://dmatsliyah.github.io)
 
 <!--
